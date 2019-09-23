@@ -8,7 +8,7 @@ My list of Dogs:
 6. Shirazi
 7. Alaskan Malamute
 8. None changed.
-9. Golden Fish.
+9. Golden Fish. Gold.
 1. None.
 2. Dogs added to test2.
 
