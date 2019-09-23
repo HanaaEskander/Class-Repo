@@ -1,5 +1,5 @@
 <!--  -->
-list of Dogs:
+My list of Dogs:
 1. Pitbull.
 2. Chihuahua.
 3. Husky.
