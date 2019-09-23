@@ -7,4 +7,6 @@ list of Dogs:
 5. Wolfie.
 6. Shirazi
 7. Alaskan Malamute
-8. None 
+8. None changed.
+
+
