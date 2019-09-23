@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <!--  -->
 My list of Dogs:
 1. Pitbull.
@@ -9,10 +8,7 @@ My list of Dogs:
 6. Shirazi
 7. Alaskan Malamute
 8. None changed.
-=======
-list of Dogs:
->>>>>>> Test2
-
+9. Golden Fish.
 1. None.
 2. Dogs added to test2.
 
