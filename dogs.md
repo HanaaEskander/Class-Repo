@@ -1,14 +1,17 @@
 <!--  -->
-My list of Dogs:
-1. Pitbull.
-2. Chihuahua.
-3. Husky.
-4. German shepherd.
-5. Wolfie.
-6. Shirazi
-7. Alaskan Malamute
-8. None changed.
-9. Golden Fish. Gold.
-1. None.
-2. Dogs added to test2.
-
+My listof classmates:
+1. Taghreed Talented.
+2. Aisha Advantours.
+3. Ahmed asstounashing.
+4. Moh. Meaningful.
+5. Mostuffa Meaningful.
+6. Eman Enormous.
+7. Jalal jealous.
+8. Heba Hel.
+9. Atheer adorable .
+10. Nawal Nice.
+11. Aiman Atom .
+12. Firas ffabulous   
+13. Sara Suffi.
+14. Moh.  magnificent
+15. Ahmed Amazing.
